@@ -1,0 +1,16 @@
+{
+  "name": "avatar-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.8.0",
+    "cypress-plugin-tab": "^1.0.5"
+  }
+}
