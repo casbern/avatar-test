@@ -11,7 +11,8 @@ export CYPRESS_AVATAR_USERNAME=username
 export CYPRESS_AVATAR_PASSWORD=password
 ```
 
-Elas devem ser adicionadas no home folder no arquivo <code>~/.bashrc</code> for BASH or no <code>~/.zshenv</code> for ZSH.
+Elas devem ser adicionadas no home folder no arquivo <code>~/.bashrc</code> for BASH or no 
+<code>~/.zshenv</code> for ZSH.
 Execute <code>source ~/.bashrc</code> or <code>source ~/.zshenv</code>
 
 ### Passo 2:
