@@ -1,5 +1,5 @@
 
-describe('Preenchimento de período errado', () => {
+describe('Preenchimento de tabela', () => {
   before('Cypress setup test', () => {
     cy.clearCookies()
     
